@@ -1,6 +1,11 @@
 # Moje pierwsze repozytorium
 
 
+# Autorzy
+
+infoSchare Academy
+Cloud
+
 asdsasda sd
 asd asd asd das
 
