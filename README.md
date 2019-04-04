@@ -8,3 +8,10 @@ asd asd asd das
 
 kljadlkjsdk
 jalkjdlksajlk
+
+
+##Licencja
+
+asdasdas
+
+MIT
